@@ -1,0 +1,43 @@
+{
+  "template": "CA1_Own_Funds",
+  "period": "YYYY-MM-DD",
+  "entity_id": "string",
+
+  "CET1": {
+    "capital_components": {
+      "common_shares": null,
+      "share_premium": null,
+      "retained_earnings": null,
+      "accumulated_other_comprehensive_income": null,
+      "other_CET1_instruments": null
+    },
+    "regulatory_adjustments": {
+      "intangibles": null,
+      "deferred_tax_assets": null,
+      "goodwill": null,
+      "prudential_valuation_adjustments": null,
+      "other_deductions": null
+    },
+    "CET1_total": null
+  },
+
+  "AT1": {
+    "instruments": null,
+    "other_items": null,
+    "AT1_total": null
+  },
+
+  "Tier2": {
+    "instruments": null,
+    "credit_risk_adjustments": null,
+    "Tier2_total": null
+  },
+
+  "Totals": {
+    "Tier1_total": null,
+    "own_funds_total": null
+  },
+
+  "references": {},        
+  "missing_fields": {}     
+}
